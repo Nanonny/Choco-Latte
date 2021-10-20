@@ -17,19 +17,17 @@
 
     3.) ติดตั้ง library module ที่จำเป็นต่อการใช้งานในส่วนของแอพพลิเคชั่น ดังต่อไปนี้
     
-     3.1 ติดตั้ง pathlib โดยใช้คำสั่ง 
-         >>> pip install pathlib
-     3.2 ติดตั้ง tkinter โดยใช้คำสั่ง
+     3.1 ติดตั้ง tkinter โดยใช้คำสั่ง
         >>> pip install tk
-     3.3 ติดตั้ง PIL โดยใช้คำสั่ง pip
+     3.2 ติดตั้ง PIL โดยใช้คำสั่ง pip
         >>> pip install Pillow
-     3.4 ติดตั้ง itertools โดยใช้คำสั่ง
+     3.3 ติดตั้ง itertools โดยใช้คำสั่ง
         >>> pip install more-itertools
-     3.5 ติดตั้ง json โดยใช้คำสั่ง
+     3.4 ติดตั้ง json โดยใช้คำสั่ง
         >>> pip install jsons
-     3.6 ติดตั้ง pyttsx3 โดยใช้คำสั่ง
+     3.5 ติดตั้ง pyttsx3 โดยใช้คำสั่ง
         >>> pip install pyttsx3
-     3.7 ติดตั้ง pygame โดยใช้คำสั่ง
+     3.6 ติดตั้ง pygame โดยใช้คำสั่ง
         >>> pip install pygame
         
         
