@@ -39,7 +39,8 @@
 ---
      5.) จากนั้นทำการรันแอพพลิเคชั่น choco&late จากไฟล์ที่ชื่อว่า MainApp.py
 ---     
-![image](https://user-images.githubusercontent.com/37722042/138034039-8f70d538-e3be-4156-a260-188c59fc8694.png)
+![image](https://user-images.githubusercontent.com/37722042/138599340-cbb3257d-79a5-4c14-9a79-9122d1141cf8.png)
+
 
       แอพพร้อมใช้งานแล้ว!!
  #Hope you enjoy!!
